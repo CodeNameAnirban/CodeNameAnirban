@@ -11,7 +11,7 @@
 <p align="left">
  <a href="https://discord.com/channels/Anirban#2594" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/anirbanthisside/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Anirbanhalder" height="30" width="40" /></a>
- <a href="https://twitter.com/AnirbanThisSide" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="" height="30" width="40" /></a>
+ <a href="https://twitter.com/AnirbanThisSide" target="blank"><img align="center" src="https://techcrunch.com/wp-content/uploads/2014/06/twitter-rise.gif?w=730&crop=1" alt="" height="30" width="40" /></a>
  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="" height="30" width="40" /></a>
 
 </p>

@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px">, I'm Anirban Haldar! </h1>
 <h3 align="center">A second year student at <a href="https://iem.edu.in/"> <b>IEM</b>, Kolkata</a> pursuing B.Tech in Computer Science and Engineering <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px" width="30px">. I am a Tech enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="30px" width="36px"> and  curious one who want to explore <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" height="30px" width="20px" />and learn new skills <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" height="30px" width="20px" />. I love meeting new people👩🏽‍🚀 exchanging ideas 💡 and spreading knowledge and positivity <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="30px" width="30px">.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" height="30px" width="20vw" /> How to reach me: *Anirban.Halder@iem.edu.in*
 
@@ -11,7 +11,7 @@
 <p align="left">
  <a href="https://discord.com/channels/Anirban#2594" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/anirbanthisside/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Anirbanhalder" height="30" width="40" /></a>
- <a href="https://twitter.com/AnirbanThisSide" target="blank"><img align="center" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" alt="" height="30" width="40" /></a>
+ <a href="https://twitter.com/AnirbanThisSide" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="" height="30" width="40" /></a>
  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="" height="30" width="40" /></a>
 
 </p>
